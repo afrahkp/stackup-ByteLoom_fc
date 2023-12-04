@@ -13,9 +13,9 @@ Our project is E-commerce .This e-commerce project is designed to offer a straig
 E-commerce simplifies buying and selling by enabling transactions online, offering convenience, accessibility, and a global marketplace for goods and services.
 
 ## Team members
-1. Ayisha Selin [https://github.com/afrahkp]
-2. Afrah Anas KP [https://github.com/ayishaselin]
-3. Ayisha Nahla [https://github.com/Nahlaayisha]
+1. [Afrah Anas](https://github.com/afrahkp)
+2. [Ayisha Selin](https://github.com/ayishaselin)
+3. [Ayisha Nahla](https://github.com/Nahlaayisha)
 ## Team Id
 https://github.com/afrahkp/stackup-ByteLoom_fc
 ## Link to product walkthrough
