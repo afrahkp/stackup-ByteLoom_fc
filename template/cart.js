@@ -20,4 +20,8 @@ document.addEventListener('DOMContentLoaded', function() {
 function goBack() {
     // Navigate directly to the index page
     window.location.href = 'kelo.html';
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ef0619075d234bb2fb38d1b7e1dbbd16b3c38e6a
