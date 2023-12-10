@@ -61,7 +61,8 @@ function completePurchase() {
     // and handle the payment and order completion logic on the server side.
 }
 // main.js
-document.addEventListener('DOMContentLoaded', function () {
+ // main.js
+ document.addEventListener('DOMContentLoaded', function() {
     // Fetch products from the backend API
     fetch('http://127.0.0.1:8000/api/products/')
         .then(response => response.json())
@@ -74,3 +75,4 @@ document.addEventListener('DOMContentLoaded', function () {
         })
         .catch(error => console.error('Error:', error));
 });
+
